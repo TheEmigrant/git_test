@@ -1,0 +1,1 @@
+This is The Emigrant’s first git project!
